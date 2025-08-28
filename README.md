@@ -4,19 +4,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sofia+Vanessa!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Mexico MX</h3>
+<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">💻 Data Scientist in progress | 🤖 Machine Learning | 📊 Analytic</h3>
+
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **RUNNEST**
  
- 🌱 I’m currently learning **Python, JavaScript and Kali Linux.**
+ 🔍 I’m currently working on Machine Learning projects
+🌱 I’m currently learning Python, Data Science & AI
+💬 Ask me about ML, Data Analysis, Visualization, and Model Deployment **[here](https://github.com/sofiat25)**
 
-💬 Ask me about **Node.js, React, Figma... or anything [here](https://github.com/sofiat25)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -37,8 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Jupyter Notebook, SQL," />
 </div>
 
 <br/>
