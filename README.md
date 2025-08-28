@@ -14,8 +14,8 @@
  
  
 <p>  🔍 I’m currently working on Machine Learning projects</p>
-🌱 I’m currently learning Python, Data Science & AI
-💬 Ask me about ML, Data Analysis, Visualization, and Model Deployment **[here](https://github.com/sofiat25)**
+<p>🌱 I’m currently learning Python, Data Science & AI</p>
+<p>💬 Ask me about ML, Data Analysis, Visualization, and Model Deployment **[here](https://github.com/sofiat25)**</p>
 
 
 
