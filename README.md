@@ -35,8 +35,9 @@
 
  <hr/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,tensorflow,pytorch,jupyter,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,jupyter,mysql" />
 </div>
+
 
 
 <hr/>
