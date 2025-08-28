@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
-<h3 align="center">💻 Data Scientist in progress | 🤖 Machine Learning | 📊 Analytic</h3>
+<h3 align="center">💻 Data Scientist in progress | 🤖 Machine Learning | 📊 Analytics</h3>
 
 
 <br/>
@@ -13,7 +13,7 @@
 <div align="center">
  
  
- 🔍 I’m currently working on Machine Learning projects
+<p>  🔍 I’m currently working on Machine Learning projects</p>
 🌱 I’m currently learning Python, Data Science & AI
 💬 Ask me about ML, Data Analysis, Visualization, and Model Deployment **[here](https://github.com/sofiat25)**
 
