@@ -34,14 +34,10 @@
 </div>
 
  <hr/>
- <div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-[Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-<br/>
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,jupyter,mysql" />
 </div>
+
 <hr/>
 
 <div align="center">
