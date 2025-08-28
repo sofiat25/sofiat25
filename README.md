@@ -15,7 +15,7 @@
  
 <p>  🔍 I’m currently working on Machine Learning projects</p>
 <p>🌱 I’m currently learning Python, Data Science & AI</p>
-<p>💬 Ask me about ML, Data Analysis, Visualization, and Model Deployment **[here](https://github.com/sofiat25)**</p>
+<p>💬 Ask me about ML, Data Analysis, Visualization, and Model Deployment [here](https://github.com/sofiat25)**</p>
 
 
 
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Jupyter Notebook, SQL," />
+    <img src="https://skillicons.dev/icons?i=python,mumPy,pandas,matplotlib,seaborn,scikit-learn,tensorFlow,pyTorch,jupyter Notebook,SQL," />
 </div>
 
 <br/>
