@@ -35,7 +35,9 @@
 
  <hr/>
 <div align="center">
-  ![skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,jupyter,mysql,git)
+<div align="center">
+  [skills](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,jupyter,mysql,git)
+</div>
 </div>
 
 
